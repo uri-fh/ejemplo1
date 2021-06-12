@@ -1,0 +1,27 @@
+h1{
+    font-size: 35px;
+    text-align: center;
+    color: blue;
+    font-family: 'Open Sans', sans-serif;
+}
+p{
+    font-family:  'Dancing Script';
+    font-size: 25px;
+    color: chocolate;
+    text-align: justify;
+    width: 50%;
+}
+img{
+    width: 30%;
+    float: right;
+    position: relative;
+    right: 10%;
+}
+hr{
+    width: 80%;
+    height: 20px;
+    border: solid;
+    border-color: crimson;
+    background-color: darksalmon;
+    border-radius: 5%;
+}
